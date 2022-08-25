@@ -1,1 +1,0 @@
-# Alura-TypeScript-curso1
